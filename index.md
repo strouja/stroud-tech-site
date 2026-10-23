@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Stroud Tech Solutions LLC
+title: Home
 ---
 
 # Stroud Tech Solutions LLC

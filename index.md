@@ -27,6 +27,7 @@ Stroud Tech Solutions LLC provides senior-level advisory and hands-on technical 
 * **Compliance-as-Code:** Deep integration of regulatory and compliance standards—including **GDPR, FIPS 140-3, HIPAA, and SOC 2**—directly into CI/CD pipelines, container images, and deployment stages.
 * **Automated Remediation:** Scaled automated dependency patching and vulnerability management across hundreds of repositories using Renovate and modern SecDevOps tooling.
 * **Polyglot Stack Security:** Auditing, securing, and containerizing software across modern polyglot environments (Java, Node.js, Go, Python, Rust).
+* * **Educated Development Teams on AI:** Showed development teams on how to use Artificial Intelligence to remediate complicated security issues across Java, Node.js, Go, Python, Rust applications.
 
 ### 3. Compute Optimization & Deployment Velocity
 * **Containerization & Orchestration:** Re-platforming monolithic and big-data workloads onto modern container engines using **Kubernetes** and **Red Hat OpenShift**.

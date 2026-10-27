@@ -52,8 +52,11 @@ Stroud Tech Solutions LLC provides senior-level advisory and hands-on technical 
 
 ## Certifications & Education
 
+**Cloud Certifications**
 * **Google Cloud Certified:** Generative AI Leader (2026)
 * **Google Cloud Certified:** Cloud Digital Leader (2026)
+
+**Formal Education**
 * **M.S., Electrical Engineering** | Columbia University School of Engineering
 * **B.E., Electrical Engineering (Math Minor)** | Manhattan College *(Summa Cum Laude)*
 

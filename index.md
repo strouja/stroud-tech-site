@@ -7,7 +7,7 @@ title: Home
 ### Enterprise Cloud Architecture, SRE & SecDevOps Consulting
 
 **Location:** Oakton, VA  
-**Practice Focus:** SecDevOps, Hybrid Cloud Strategy, Site Reliability Engineering (SRE), Enterprise Modernization  
+**Practice Focus:** SecDevOps, Hybrid Cloud Strategy, Site Reliability Engineering (SRE), Enterprise Modernization, Technology & Package Analysis - Selection and Implementation
 
 ---
 

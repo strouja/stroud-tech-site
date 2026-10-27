@@ -43,22 +43,22 @@ Stroud Tech Solutions LLC provides senior-level advisory and hands-on technical 
 
 ## Technical Leadership Track Record
 
-* **Cloud Architect & Application Security Lead** | Ernst & Young (EY) *(April 2026 – Present)*
-* **SRE Lead, CTO, Chief Engineer & Security Lead** | IBM Corporation *(2001 – 2025)*
-* **Chief Engineer (EADIS)** | Federal Emergency Management Agency (FEMA)
-* **Lead Technical Engineer** | Defense Information Systems Agency (DISA)
+* **Cloud Architect & Application Security Lead** - Ernst & Young (EY) *(April 2026 – Present)*
+* **SRE Lead, CTO, Chief Engineer & Security Lead** - IBM Corporation *(2001 – 2025)*
+* **Chief Engineer (FEMA)** - Federal Emergency Management Agency (FEMA) on EADIS Program
+* **Lead Technical Engineer** -  Defense Information Systems Agency (DISA)
 
 ---
 
 ## Certifications & Education
 
-### Cloud Certifications**
+### Cloud Certifications
 * **Google Cloud Certified:** Generative AI Leader (2026)
 * **Google Cloud Certified:** Cloud Digital Leader (2026)
 
-### Formal Education**
-* **M.S., Electrical Engineering** Columbia University School of Engineering
-* **B.E., Electrical Engineering (Math Minor)**  Manhattan College *(Summa Cum Laude)*
+### Formal Education
+* **M.S., Electrical Engineering** - Columbia University School of Engineering
+* **B.E., Electrical Engineering (Math Minor)** - Manhattan College *(Summa Cum Laude)*
 
 ---
 

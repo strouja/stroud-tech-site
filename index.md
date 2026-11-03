@@ -6,7 +6,7 @@ title: Home
 # Stroud Tech Solutions LLC
 ### Enterprise Cloud Architecture, SRE & SecDevOps Consulting
 
-**Federal Clearance Eligibility:** Previously Held DoD Security Clearance (DISA) & DHS Public Trust (FEMA) — Eligible for Reinstatement
+**Federal Clearance Eligibility:** Previously Held DoD Top Security Clearance (DISA) & DHS Public Trust (FEMA) — Eligible for Reinstatement
 
 ## CHIEF INFORMATION OFFICER (CIO) | CHIEF TECHNOLOGY OFFICER (CTO) | FEDERAL & HEALTHCARE IT EXECUTIVE
 
